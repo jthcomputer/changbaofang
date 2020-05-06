@@ -68,7 +68,7 @@
     </div>
     <div class="mdui-dialog-actions">
 
-        <button class="mdui-btn mdui-ripple" mdui-dialog-close>关闭</button>
+        <button class="mdui-btn mdui-ripple" mdui-dialog-close>关闭</button>//啥也不是
     </div>
 </div>
 
